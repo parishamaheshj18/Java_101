@@ -1,0 +1,5 @@
+package udemyPackage;
+
+public class Tree extends Plant {
+	
+}
